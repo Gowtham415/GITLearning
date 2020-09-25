@@ -1,1 +1,2 @@
-Hello this is feature 5
+Feature 5 may not be needed currently. As we will completely remove this functionality.
+Thanks for learning git.
